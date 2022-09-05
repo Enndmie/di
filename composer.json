@@ -1,7 +1,7 @@
 {
-    "name": "dabaicai/di",
+    "name": "dabaicaia/di",
     "description": "A lightweight dependency injection tool, container based on the PSR-11 specification.",
-    "homepage": "https://github.com/dabaicai/di",
+    "homepage": "https://github.com/dabaicaia/di",
     "license": "Apache-2.0",
     "keywords": [
         "container",
